@@ -1,0 +1,54 @@
+article 
+	{
+		width :30% ;
+		border:1px solid #ddd ;
+		float:left ;
+		margin : 1%;
+		text-align : center ;
+		padding-bottom : 20px ;
+		box-shadow : 5px 10px 10px  #a1a1a1;
+	}
+
+
+article img
+	{
+		width :90% ;
+		border-radius:10px 0px 20px 0px ;
+	}
+
+article img:hover 
+	{ 
+		opacity :.8 
+	}
+
+
+article p
+	{
+		color:#333;
+		text-align: justify ;
+		font-weight:bold;
+	margin:20px;
+	} 
+
+ article button
+	{
+		font-weight: bold ;
+		background: #333;
+		padding: 10px 15px ;
+		color: #fff;
+		border: none
+	}
+ 
+ article button:hover
+	{
+		color:#333;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+	}
+ 
+.clr
+	{
+		clear:both;
+	}
+/* gooogle font  Ê«Ã»*/

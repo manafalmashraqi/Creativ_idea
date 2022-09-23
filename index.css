@@ -1,0 +1,294 @@
+/* start header */
+header 
+	{ 
+	background: #1d6c6c;
+	width : 98% ;
+	height:340px;
+	text-align: center ;
+	position: top ;
+	margin: 3px 0 2% 11px;
+	padding:6px;
+	border : 1px solid #134;
+	
+	}
+	
+header img 
+	{
+		width :7% ;
+		border-radius:30px 10px 0px 10px ;
+		
+	}
+.search
+	{
+		font-weight: bold ;
+		background: #144;
+		padding: 13px 22px ;
+		color: white;
+		border: none ;
+		border-radius:10px  ;
+		transition-property:all;
+		transition-duration:1s;
+		transition-timing-function:ease;
+		transition-delay:1s;
+		transition:1s;
+	}
+	
+.search:hover
+	{
+		color:blue;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+		
+		
+	}	
+.is											/*  Style of Box of Search */
+	{
+		width:12%;
+		height:2%;
+		font: bold 16px "Tahoma";
+		background: #fff;
+		padding: 9px 20px ;
+		margin:3px;
+		border: 1px solid #000;
+		border-radius : 5px ;
+	}
+.is2											/*  Style of Box of Search */
+	{
+		width:32%;
+		height:2%;
+		font: bold 16px "Tahoma";
+		background: #fff;
+		padding: 9px 20px ;
+		margin:3px;
+		border: 1px solid #000;
+		border-radius : 5px ;
+	}	
+/* end header  */
+
+
+/* start nav */
+nav 
+	{
+	background: #ced6b785;
+	width : 44% ;
+	height:90px;
+	text-align: center ;
+	margin:11px 28%;
+	padding-top:1px;
+	border : 1px solid #134;
+	}
+
+nav button
+	{
+		font-weight: bold ;
+		background: #144;
+		padding: 13px 22px ;
+		color: white;
+		border: none ;
+		border-radius:10px  ;
+		transition-property:all;
+		transition-duration:1s;
+		transition-timing-function:ease;
+		transition-delay:1s;
+		transition:1s;
+	}
+	
+nav button:hover
+	{
+		color:blue;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+		
+		
+	}
+	
+/* end nav */	
+
+
+/* start section */
+section button 
+	{ 
+		font-weight: bold ;
+		background: #9bf;
+		padding: 20px 90px ;
+		color: #000;
+		border: none 
+		transition-property:all;
+		transition-duration:1s;
+		transition-timing-function:ease;
+		transition-delay:1s;
+		transition:1s;
+	}
+	
+section button:hover
+	{
+		color:red;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+	}	
+
+section img 
+
+section img
+	{
+		width :80% ;
+		border-radius:20px 0px 10px 0px ;
+	}
+	
+section img:hover 
+	{ 
+		opacity :.7 ;
+			transform:scale(1,1);
+	
+	}
+	
+	.submit
+	{
+	width:42%;
+	height:1600px;
+	text-align: center ;
+	border: 1px solid #ced6b785;
+	box-shadow :  10px 15px 10px  #ced6b785;	
+	background:#fff ;
+	margin: 62px 29%;
+	padding:6px;
+	border-radius: 3px 0 3px 3px  ;
+	}
+	.login
+	{
+	width:34%;
+	border-radius: 3px 0 3px 3px  ;
+	height:290px;
+	text-align: center ;
+	border: 1px solid #ced6b785;
+	box-shadow :  10px 15px 10px  #ced6b785;	
+	background:#fff ;
+	margin: 33px 33%;
+	padding:22px;
+	}
+/* end section */
+
+
+
+	
+/* start article*/
+.aboutas
+{
+	width:44%;
+	border-radius: 3px  ;
+	height:280px;
+	text-align: center ;
+	border: 1px solid #ced6b785;
+	box-shadow :  8px 12px 8px  #ced6b785;	
+	background:#fff ;
+	margin: 33px 25%;
+	padding:22px;	
+	font-size:26px; font-family:"Times New Roman";   color: #000;
+}
+
+article 
+	{
+		background:#ced6b785 ;
+		width :30% ;
+		border:1px solid #ddd ;
+		float: left ;
+		margin : 1% 9%;
+		text-align : center ;
+		padding  : 10px ;
+		border-radius:3px  ;
+		box-shadow : 5px 10px 10px  #a1a1a1;
+	}
+.article 
+	{
+		background:#fff ;
+		width :93% ;
+ 
+		float: left ;
+		margin : 2% 3% ;
+		text-align : center ;
+		padding-bottom : 30px ;
+		border-radius:3px  ;
+	}
+article img
+	{
+		width :90% ;
+		border-radius:10px 0px 20px 0px ;
+	}
+	
+article img:hover 
+	{ 
+		opacity :.8 ;
+		
+	}
+	
+article p
+	{
+		color:#333;
+		text-align: center ;
+		font-weight:bold;
+		margin:10px;
+	}
+	
+article button
+	{
+		font-weight: bold ;
+		background:#001;
+		padding: 10px 15px ;
+		color: #fff;
+		border: none
+		transition-property:all;
+		transition-duration:1s;
+		transition-timing-function:ease;
+		transition-delay:1s;
+		transition:1s;
+	}
+	
+article button:hover
+	{
+		color:blue;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+	}
+	
+.clr
+	{
+		clear:both;
+	}
+	
+/* end article*/
+
+
+/* start footer*/
+footer 
+	{
+	background: #1d6c6c;
+	width : 98% ;
+	height:140px;
+	text-align: center ;
+	position: top ;
+	margin: 3px 0 1px 11px;
+	padding:6px;
+	border : 1px solid #134;
+	
+	}
+footer button
+	{
+		font-weight: bold ;
+		background: #9bf;
+		padding: 10px 70px ;
+		color: white;
+		border: none
+	}
+
+footer button:hover
+	{
+		color:blue;
+		background:#fff;
+		cursor:pointer;
+		border: 1px solid #333;
+	}
+/* end footer*/
